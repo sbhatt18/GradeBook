@@ -1,0 +1,12 @@
+Sam 10 9 
+Kate 9 9 
+Louis 3 4 
+Micheal 7 8 
+Peter 10 10 
+Kyle 6 5 
+Adam 3 5 
+Ronold 8 9 
+Tanner 6 9 
+Joshua 4 3 
+Shiv 10 10 
+Brian 6 7 
