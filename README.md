@@ -3,6 +3,7 @@ A program created during my spare time, where user can add multiple students to 
 
 ## Things to keep in mind when using Gradebook
 ---You can modify the numbers but please DONOT add addtional numbers into 'student.txt'as that would be considered as adding additional quizzes, this would essentially break the program.
+
 ---Please add,drag/drop the file in the directory where both Java files are. Ex: Shivang/eclipse-workspace/cs1/student.txt , student.txt was added to the cs1 directory because both Java files were located in cs1, inside the src folder/package.
 
 
