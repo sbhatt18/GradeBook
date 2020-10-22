@@ -1,0 +1,2 @@
+# GradeBook
+A program created during my spare time, where user can add multiple students to the 'students.txt' file. The program should then be able to read the data from the file using TextI/O and let the user do various things with the data. This program uses many Obj. Oriented features related to Encapsulation such as, Multiple classes, instance variables, private variables, get/set methods, PrintWriter method and takes into account multiple edge cases. 
